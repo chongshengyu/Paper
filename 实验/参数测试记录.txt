@@ -1,0 +1,11 @@
+user£º001;traCnt:59
+testTraCnt:6
+user:001,success:438,wrong:129,unable:34
+
+user£º013;traCnt:85
+testTraCnt:9
+user:013,success:1285,wrong:51,unable:47
+
+user£º035;traCnt:74
+testTraCnt:8
+user:035,success:1440,wrong:572,unable:41

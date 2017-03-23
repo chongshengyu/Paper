@@ -1,0 +1,81 @@
+user：001;traCnt:59
+testTraCnt:6
+current tra:00120081210001529
+traMy:00120081210001529,successMy:75,wrongMy:19,unable:5
+traRef:00120081210001529,successRef:72,wrongRef:22,unable:5
+current tra:00120081202145929
+traMy:00120081202145929,successMy:31,wrongMy:10,unable:6
+traRef:00120081202145929,successRef:6,wrongRef:35,unable:6
+current tra:00120081201102704
+traMy:00120081201102704,successMy:41,wrongMy:4,unable:8
+traRef:00120081201102704,successRef:9,wrongRef:36,unable:8
+current tra:00120081205002359
+traMy:00120081205002359,successMy:61,wrongMy:14,unable:7
+traRef:00120081205002359,successRef:56,wrongRef:19,unable:7
+current tra:00120081202145929
+traMy:00120081202145929,successMy:31,wrongMy:10,unable:6
+traRef:00120081202145929,successRef:6,wrongRef:35,unable:6
+current tra:00120081210001529
+traMy:00120081210001529,successMy:75,wrongMy:19,unable:5
+traRef:00120081210001529,successRef:72,wrongRef:22,unable:5
+userMy:001,successMy:314,wrongMy:76,unable:33
+userRef:001,successRef:221,wrongRef:169,unable:33
+user：013;traCnt:85
+testTraCnt:9
+current tra:01320081203085659
+traMy:01320081203085659,successMy:144,wrongMy:9,unable:4
+traRef:01320081203085659,successRef:124,wrongRef:29,unable:4
+current tra:01320090120232404
+traMy:01320090120232404,successMy:102,wrongMy:5,unable:6
+traRef:01320090120232404,successRef:15,wrongRef:92,unable:6
+current tra:01320090206085800
+traMy:01320090206085800,successMy:126,wrongMy:8,unable:4
+traRef:01320090206085800,successRef:107,wrongRef:27,unable:4
+current tra:01320081209230723
+traMy:01320081209230723,successMy:120,wrongMy:3,unable:4
+traRef:01320081209230723,successRef:49,wrongRef:74,unable:4
+current tra:01320081201232005
+traMy:01320081201232005,successMy:121,wrongMy:0,unable:7
+traRef:01320081201232005,successRef:47,wrongRef:74,unable:7
+current tra:01320081201232005
+traMy:01320081201232005,successMy:121,wrongMy:0,unable:7
+traRef:01320081201232005,successRef:47,wrongRef:74,unable:7
+current tra:01320090115232628
+traMy:01320090115232628,successMy:114,wrongMy:8,unable:8
+traRef:01320090115232628,successRef:95,wrongRef:27,unable:8
+current tra:01320081205095700
+traMy:01320081205095700,successMy:120,wrongMy:15,unable:5
+traRef:01320081205095700,successRef:77,wrongRef:58,unable:5
+current tra:01320081209230723
+traMy:01320081209230723,successMy:120,wrongMy:3,unable:4
+traRef:01320081209230723,successRef:49,wrongRef:74,unable:4
+userMy:013,successMy:1088,wrongMy:51,unable:49
+userRef:013,successRef:610,wrongRef:529,unable:49
+user：035;traCnt:74
+testTraCnt:8
+current tra:03520090315214635
+traMy:03520090315214635,successMy:134,wrongMy:53,unable:6
+traRef:03520090315214635,successRef:106,wrongRef:81,unable:6
+current tra:03520090421205900
+traMy:03520090421205900,successMy:220,wrongMy:33,unable:6
+traRef:03520090421205900,successRef:158,wrongRef:95,unable:6
+current tra:03520090319214708
+traMy:03520090319214708,successMy:177,wrongMy:57,unable:5
+traRef:03520090319214708,successRef:141,wrongRef:93,unable:5
+current tra:03520090315214635
+traMy:03520090315214635,successMy:134,wrongMy:53,unable:6
+traRef:03520090315214635,successRef:106,wrongRef:81,unable:6
+current tra:03520090318213405
+traMy:03520090318213405,successMy:148,wrongMy:33,unable:4
+traRef:03520090318213405,successRef:119,wrongRef:62,unable:4
+current tra:03520090412205936
+traMy:03520090412205936,successMy:101,wrongMy:97,unable:22
+traRef:03520090412205936,successRef:73,wrongRef:125,unable:22
+current tra:03520090422210636
+traMy:03520090422210636,successMy:325,wrongMy:93,unable:1
+traRef:03520090422210636,successRef:245,wrongRef:173,unable:1
+current tra:03520090406205936
+traMy:03520090406205936,successMy:91,wrongMy:53,unable:7
+traRef:03520090406205936,successRef:73,wrongRef:71,unable:7
+userMy:035,successMy:1330,wrongMy:472,unable:40
+userRef:035,successRef:1021,wrongRef:781,unable:40

@@ -1,0 +1,28 @@
+Fri Mar 03 13:29:42 CST 2017
+user：001;traCnt:59
+testTraCnt:6
+current tra:00120081116024429
+tra:00120081116024429,success:101,21.0%,wrong:110,unable:254
+tra:00120081202145929,success:59,72.0%,wrong:13,unable:9
+tra:00120081119104736,success:193,64.0%,wrong:38,unable:66
+tra:00120081210235522,success:104,70.0%,wrong:38,unable:6
+tra:00120081205002359,success:75,52.0%,wrong:41,unable:28
+tra:00120081204142253,success:75,78.0%,wrong:3,unable:17
+user:001,success:607,wrong:243,unable:140
+
+user：013;traCnt:85
+testTraCnt:9
+tra:01320090207032135,success:111,57.9%,wrong:64,unable:15
+tra:01320090204232803,success:97,84.0%,wrong:3,unable:15
+tra:01320090202095822,success:106,89.0%,wrong:1,unable:12
+tra:01320081204092236,success:335,89.0%,wrong:13,unable:28
+tra:01320081203085659,success:326,90.0%,wrong:20,unable:15
+tra:01320081209121123,success:282,84.0%,wrong:19,unable:33
+tra:01320090211092128,success:265,91.0%,wrong:6,unable:18
+tra:01320081204092236,success:335,89.0%,wrong:13,unable:28
+tra:01320081203085659,success:326,90.0%,wrong:20,unable:15
+user:013,success:2183,wrong:159,unable:179
+
+user：035;traCnt:74
+testTraCnt:8
+tra:03520090413063915,success:429,91.0%,wrong:32,unable:8

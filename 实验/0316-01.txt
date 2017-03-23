@@ -1,0 +1,55 @@
+user：001;traCnt:59
+testTraCnt:6
+current tra:00120081210001529
+tra:00120081210001529,success:75,wrong:19,unable:5
+current tra:00120081208001534
+tra:00120081208001534,success:71,wrong:0,unable:4
+current tra:00120081201102704
+tra:00120081201102704,success:41,wrong:4,unable:8
+current tra:00120081205002359
+tra:00120081205002359,success:61,wrong:14,unable:7
+current tra:00120081202000605
+tra:00120081202000605,success:67,wrong:3,unable:4
+current tra:00120081205235730
+tra:00120081205235730,success:123,wrong:89,unable:92
+user:001,success:438,wrong:129,unable:34
+user：013;traCnt:85
+testTraCnt:9
+current tra:01320090116093203
+tra:01320090116093203,success:121,wrong:9,unable:5
+current tra:01320081201090935
+tra:01320081201090935,success:146,wrong:1,unable:4
+current tra:01320081208231835
+tra:01320081208231835,success:132,wrong:1,unable:5
+current tra:01320090203100159
+tra:01320090203100159,success:228,wrong:21,unable:7
+current tra:01320090114090804
+tra:01320090114090804,success:144,wrong:9,unable:6
+current tra:01320081116232029
+tra:01320081116232029,success:120,wrong:6,unable:7
+current tra:01320081208110905
+tra:01320081208110905,success:147,wrong:1,unable:4
+current tra:01320081214232229
+tra:01320081214232229,success:102,wrong:2,unable:5
+current tra:01320081202091453
+tra:01320081202091453,success:145,wrong:1,unable:4
+user:013,success:1285,wrong:51,unable:47
+user：035;traCnt:74
+testTraCnt:8
+current tra:03520090330215823
+tra:03520090330215823,success:170,wrong:24,unable:5
+current tra:03520090316215238
+tra:03520090316215238,success:156,wrong:43,unable:5
+current tra:03520090406002056
+tra:03520090406002056,success:95,wrong:141,unable:4
+current tra:03520090402205937
+tra:03520090402205937,success:345,wrong:132,unable:116
+current tra:03520090312214038
+tra:03520090312214038,success:203,wrong:36,unable:5
+current tra:03520090420205905
+tra:03520090420205905,success:162,wrong:30,unable:6
+current tra:03520090406002056
+tra:03520090406002056,success:95,wrong:141,unable:4
+current tra:03520090317215456
+tra:03520090317215456,success:214,wrong:25,unable:6
+user:035,success:1440,wrong:572,unable:41
